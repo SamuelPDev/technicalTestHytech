@@ -1,5 +1,5 @@
 <script setup>
-import { MenuItems } from "../utils/menu.js";
+import { MenuItems } from "../utils/data.js";
 import Toggle from "./UI/Toggle.vue";
 </script>
 

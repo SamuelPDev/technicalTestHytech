@@ -1,5 +1,5 @@
 <script setup>
-import { NavMenu } from "../utils/menu.js";
+import { NavMenu } from "../utils/data.js";
 </script>
 
 <template>

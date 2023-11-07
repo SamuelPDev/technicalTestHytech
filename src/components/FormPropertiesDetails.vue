@@ -1,5 +1,5 @@
 <script setup>
-import { FormPropertiesDetails, Checkboxes } from "../utils/menu.js";
+import { FormPropertiesDetails, Checkboxes } from "../utils/data.js";
 import CheckboxGroup from "./UI/CheckboxGroup.vue";
 import AmountInput from "./UI/AmountInput.vue";
 </script>

@@ -1,5 +1,5 @@
 <script setup>
-import { SideMenu } from "../utils/menu.js";
+import { SideMenu } from "../utils/data.js";
 </script>
 
 <template>
